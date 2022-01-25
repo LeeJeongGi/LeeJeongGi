@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Coding%20GoSu&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Coding%Gosu&fontSize=90)
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/LeeJeongGi/TODO-List) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/LeeJeongGi/TODO-List) [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](github.com/LeeJeongGi/TODO-List)
 
