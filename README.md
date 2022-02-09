@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-🟢**Technology Stack**🟢
+⚡**Technology Stack**⚡
 ---
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](AlgoritymStudy) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/LeeJeongGi/core-spring) [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](github.com/LeeJeongGi/core-spring)
