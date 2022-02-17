@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-😄 *hello, MY name is LeeJeongGi*
+😄 **hello, MY name is LeeJeongGi**
 
 ⚡**Technology Stack**⚡
 ---
