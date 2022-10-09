@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 
 😄**Hello, MY name is LeeJeongGi**😄
+
 **Working as a Back-end Enginee**
+
 **I mainly develop using Java**
 
 ⚡**Technology Stack**⚡
