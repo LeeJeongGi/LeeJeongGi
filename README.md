@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-😄**Hello, MY name is LeeJeongGi**😄
+😄**Hello,MY name is LeeJeongGi**😄
 
 **Working as a Back-end Engineer**
 
