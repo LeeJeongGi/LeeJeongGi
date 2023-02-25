@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 **Working as a Back-end Engineer**
 
 **I mainly develop using Java**
+
 **But I am also interested in other languages**
+
 **I'm still lacking, but I'm studying steadily**
 
 ⚡**Technology Stack**⚡
