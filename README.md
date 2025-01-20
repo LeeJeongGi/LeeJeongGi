@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **Working as a Back-end Engineer**
 
-**I mainly develop using Java**
+**I mainly develop using Java, Kotlin **
 
 **But I am also interested in other languages**
 
